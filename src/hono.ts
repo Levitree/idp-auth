@@ -5,8 +5,8 @@ import {
   hasAnyPermission,
   type IdpVerifier,
   type VerifierOptions,
-} from './index'
-import { IdpAuthError, type Principal } from './types'
+} from './index.js'
+import { IdpAuthError, type Principal } from './types.js'
 
 export type { Principal }
 

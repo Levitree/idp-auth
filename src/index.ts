@@ -1,7 +1,7 @@
 import * as jose from 'jose'
-import { IdpAuthError, type Principal } from './types'
+import { IdpAuthError, type Principal } from './types.js'
 
-export { IdpAuthError, type IdpAuthErrorCode, type Principal } from './types'
+export { IdpAuthError, type IdpAuthErrorCode, type Principal } from './types.js'
 
 export const DEFAULT_ISSUER = 'https://idp.terranova.inc'
 
