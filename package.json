@@ -1,6 +1,6 @@
 {
   "name": "@terranovasystems/idp-auth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Verify idp.terranova.inc access tokens and check permissions. One implementation for every Terranova Worker.",
   "type": "module",
   "license": "UNLICENSED",
